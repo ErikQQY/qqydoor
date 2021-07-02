@@ -24,6 +24,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - run: cd web
     - run: npm run crowdin upload && crowdin download
     
   sync:
