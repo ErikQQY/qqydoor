@@ -27,8 +27,7 @@ jobs:
     - run: |
         cd web
         npm install
-        npm run crowdin upload
-        npm crowdin download
+        npm run crowdin:sync
     
   sync:
     
