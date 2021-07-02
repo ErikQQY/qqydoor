@@ -1,0 +1,10 @@
+project_id: '463460'
+api_token: '94eb3e60e5ebb1b6f9e797ab97291c4dfd48f4e05039cfb08a972b8364421fc45efecfdc796ae555'
+preserve_hierarchy: true
+files: [
+    # JSON translation files
+    {
+      source: '/src/locales/en/**/*',
+      translation: '/src/locales/%two_letters_code%/**/%original_file_name%',
+    },
+  ]
