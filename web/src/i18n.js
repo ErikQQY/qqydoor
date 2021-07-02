@@ -19,13 +19,13 @@ import fr from './locales/fr/data.json'
 import de from './locales/de/data.json'
 import ko from './locales/ko/data.json'
 import ru from './locales/ru/data.json'
-import jp from './locales/jp/data.json'
+import ja from './locales/ja/data.json'
 
 const resources = {
   en: en,
   zh: zh,
   fr: fr,
-  jp: jp,
+  ja: ja,
   de: de,
   ko: ko,
   ru: ru,
