@@ -35,4 +35,4 @@ jobs:
       with:
         commit_message: Sync from crowdin
         file_pattern: web/src/locales/*
-        commit_author: ${{CROWDIN_COMMIT_USER}}
+        commit_author: ${{ secrets.CROWDIN_COMMIT_USER }}
