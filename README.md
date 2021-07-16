@@ -149,4 +149,6 @@ Now, Casdoor is running on port 8000. You can access Casdoor pages directly in y
 
 * Translation Noting
 
-  We deplot the translation on Crowdin, please jump to crowdin to see more on Crowdin.
+  We deploy the translation on Crowdin, please jump to crowdin to see more on Crowdin.
+  
+  I am testing the Crowdin failure, please do work!!!!
