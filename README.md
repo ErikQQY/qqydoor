@@ -1,6 +1,8 @@
 Casdoor
 ====
 
+This is a test repo using for Crowdin tests~
+
 Casdoor is a UI-first centralized authentication / Single-Sign-On (SSO) platform based on OAuth 2.0 / OIDC.
 
 ## Online demo
