@@ -28,7 +28,8 @@ jobs:
         pull_request_title: 'New Crowdin translations'
 
         crowdin_branch_name: l10n_branch
-        identity: ''
+        identity: './web/src/locales/en/**'
+        config: './web/crowdin.yml'
 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
