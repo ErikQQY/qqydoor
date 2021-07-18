@@ -4,7 +4,7 @@ preserve_hierarchy: true
 files: [
     # JSON translation files
     {
-      source: '/src/locales/en/**/*',
-      translation: '/src/locales/%two_letters_code%/**/%original_file_name%',
+      source: '/src/locales/en/data.json',
+      translation: '/src/locales/%two_letters_code%/data.json',
     },
   ]
