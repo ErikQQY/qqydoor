@@ -29,6 +29,8 @@ jobs:
         github_user_name: casbin-bot
         github_user_email: bot@casbin.com
         
+        gpg_private_key: 1E1C402E7F02D236D2531ED42D9E08C9F4A3F081
+        
         crowdin_branch_name: l10n_branch
         config: './web/crowdin.yml'
 
