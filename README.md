@@ -148,7 +148,3 @@ Now, Casdoor is running on port 8000. You can access Casdoor pages directly in y
   ```
 
   Please fill out this conf correctly, or the avatar server won't work!
-
-* Translation Noting
-
-  We deploy the translation on Crowdin, please jump to crowdin to see more on Crowdin.
