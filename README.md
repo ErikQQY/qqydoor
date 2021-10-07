@@ -148,3 +148,5 @@ Now, Casdoor is running on port 8000. You can access Casdoor pages directly in y
   ```
 
   Please fill out this conf correctly, or the avatar server won't work!
+  
+  Test work flow
